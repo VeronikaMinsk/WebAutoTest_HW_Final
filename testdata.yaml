@@ -1,0 +1,21 @@
+address: https://test-stand.gb.ru
+browser: Chrome
+sleep_time: 1
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: 'Наша Таня громко плачет уронила в речку.'
+
+login: "qaz123"
+password: "34f85ca80e"
+
+title: 'Группа QUEEN'
+description: 'Вокалист Фредди Меркьюри'
+content: 'Лучший рок вокалист'
+
+name: 'Alexey'
+email: "griva.lexa@gmail.com"
+content_contact: 'Полностью согласен с предыдущим оратором!'
+
+
